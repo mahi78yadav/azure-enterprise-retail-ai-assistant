@@ -1,0 +1,5 @@
+```text
+azure-ai-projects>=2.1.0
+azure-identity
+httpx
+```
